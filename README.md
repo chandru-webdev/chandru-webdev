@@ -1,8 +1,94 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-I am a motivated Java Full Stack Developer with a strong foundation in both frontend and backend web development. I build responsive and user-friendly interfaces using HTML, CSS, JavaScript, and React.js, and develop scalable backend applications using Core Java and Spring Boot.
+<h1 align="left">
+  👋 Hi, I'm <strong>Chandru</strong>
+</h1>
 
-I have hands-on experience in designing RESTful APIs, integrating databases such as MySQL and MongoDB, and implementing secure authentication and state management solutions. I focus on writing clean, maintainable, and efficient code while following industry best practices.
+<h3>Java Full Stack Developer | React • Spring Boot • MySQL</h3>
 
-Through projects such as e-commerce applications, food ordering systems, and an AI-based Anti-Money Laundering Detection System, I have strengthened my problem-solving abilities and practical development skills.
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-I am currently seeking an opportunity as a Java Full Stack Developer where I can contribute to meaningful projects and continue growing in a professional environment.
+---
+
+## 👨‍💻 About Me
+
+I am a **Java Full Stack Developer** passionate about building responsive and scalable web applications.  
+I specialize in developing **modern front-end interfaces and powerful backend systems** using Java technologies.
+
+I enjoy solving real-world problems through **clean code, efficient APIs, and modern UI frameworks**.
+
+- 🌍 Location: Chennai, India  
+- 📧 Email: chandrubrvs@gmail.com  
+- 💼 Open to **Java Full Stack Developer Opportunities**
+- ⚡ Interested in **Web Development, APIs, and Full Stack Projects**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/chandru-webdev">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chandrubr122">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:chandrubrvs@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,bootstrap,tailwind,flask"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,eclipse,vercel"/>
+</p>
+
+---
+
+
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chandru-webdev&show_icons=true&theme=radical"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru-webdev&theme=radical"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/chandru-webdev">Chandru</a>
+</p>
