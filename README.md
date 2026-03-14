@@ -1,4 +1,4 @@
-<img align="center" alt="Developer Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="center" alt="Developer Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
 <h1 align="left">
   👋 Hi, I'm <strong>Chandru</strong>
