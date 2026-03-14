@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img align="center" alt="Developer Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 <h1 align="left">
   👋 Hi, I'm <strong>Chandru</strong>
