@@ -49,7 +49,7 @@ I enjoy solving real-world problems through **clean code, efficient APIs, and mo
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
