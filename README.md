@@ -74,21 +74,6 @@ I enjoy solving real-world problems through **clean code, efficient APIs, and mo
 
 
 
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chandru-webdev&show_icons=true&theme=radical"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru-webdev&theme=radical"/>
-
-</p>
-
----
-
 <p align="center">
 ⭐ From <a href="https://github.com/chandru-webdev">Chandru</a>
 </p>
