@@ -35,58 +35,52 @@ I specialize in Spring Boot REST APIs, JWT-based authentication, and React + Typ
 🛠️ Technical Skills
 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css"/>
 </p>
-⚙️ Frontend
+⚛️ Frontend Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap"/>
 </p>
-🔧 Backend & Frameworks
+🔧 Backend Frameworks & Runtime
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask"/>
 </p>
+🔐 Auth & API
+<p>
+  <img src="https://skillicons.dev/icons?i=postman"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BCrypt-4A90D9?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+</p>
 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres"/>
 </p>
 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,vercel,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,vercel,maven"/>
+</p>
+⚙️ DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,vercel,linux"/>
+</p>
+🤖 AI & ML (Explored)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python"/>
+  <img src="https://img.shields.io/badge/Flask%20ML%20API-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+📐 Architecture & Practices
+<p>
+  <img src="https://img.shields.io/badge/Layered%20Architecture-6C3483?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code%20Review-2E86AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC%20Pattern-27AE60?style=for-the-badge"/>
 </p>
 
-🚀 Projects
-🍔 Yumzo — Full-Stack Food Ordering App
-
-Java · Spring Boot · MySQL · JWT · BCrypt · React · TypeScript · Vite · Razorpay · TheMealDB
-
-
-Secure Spring Boot backend with JWT auth, BCrypt hashing, and role-based API access
-React + TypeScript (Vite) frontend with Context API for auth and cart state management
-Integrated Razorpay payments and TheMealDB catalog; normalized MySQL schema for orders
-
-
-🛡️ Anti-Money Laundering Detection System (AML)
-
-Python · Flask · MySQL · TensorFlow · HTML · CSS · JavaScript
-
-
-Full-stack Flask + MySQL site for AML transaction monitoring with role-based access
-TensorFlow ML model for risk and anomaly scoring linked to dashboard views
-Structured relational MySQL schema with strategic indexing for fast query performance
-
-
-👗 Velzo — E-Commerce Application
-
-HTML5 · CSS3 · JavaScript · JSON · Firebase Auth · localStorage · Vercel
-
-
-Deployed responsive fashion e-commerce site on Vercel with category-based navigation
-Dynamic product sections via JSON, persistent cart with localStorage
-Firebase Authentication for secure login/registration; mobile-friendly UI
-
-
-📜 Certifications
-CertificateProviderYearJava Full Stack DevelopmentBesant TechnologiesJan 2026Core JavaUdemyNov 2025Full Stack DevelopmentNoviTech R&D Pvt. LtdDec 2024
 
 📊 GitHub Stats
 <p align="center">
