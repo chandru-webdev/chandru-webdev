@@ -12,7 +12,7 @@ Java Full Stack Developer based in Dharmapuri, Tamil Nadu, currently working as 
 
 -  B.Sc. IT, Karpagam Academy of Higher Education
 -  Java Full Stack certification, Besant Technologies
--  Currently building: **Zayra**, a jewelry billing ERP synced with Shopify
+-  Currently building: **Opalline**, a jewelry billing ERP synced with Shopify
 -  Currently sharpening: Shopify theme architecture and Storefront/Admin API integrations
 -  Portfolio: [chandruuuu.vercel.app](https://chandruuuu.vercel.app)
 
