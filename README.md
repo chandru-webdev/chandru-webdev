@@ -20,46 +20,10 @@ Java Full Stack Developer based in Dharmapuri, Tamil Nadu, currently working as 
 
 ##  Tech Stack
 
-** Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="languages"/>
 
-** Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="frontend"/>
-
-** Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,prisma" alt="backend"/>
-
-** Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" alt="databases"/>
-
-** Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" alt="tools"/>
-
-** Shopify**
-
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-<img src="https://img.shields.io/badge/Liquid-3D4A5C?style=for-the-badge" alt="Liquid"/>
-<img src="https://img.shields.io/badge/Online%20Store%202.0-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Online Store 2.0"/>
-
-** Auth & Payments**
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="languages"/> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="frontend"/><img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,prisma" alt="backend"/> <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" alt="databases"/><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" alt="tools"/> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/> <img src="https://img.shields.io/badge/Liquid-3D4A5C?style=for-the-badge" alt="Liquid"/> <img src="https://img.shields.io/badge/Online%20Store%202.0-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Online Store 2.0"/><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
-
----
-
-##  Current Stack
-
-| Area | What I'm using |
-|---|---|
-| Job | Shopify Liquid, Online Store 2.0 themes, Storefront/Admin API |
-| opal line (ERP) | NestJS, Prisma, PostgreSQL, React + TypeScript |
-| Java track | Spring Boot, JWT auth, MySQL |
 
 ---
 
