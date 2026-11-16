@@ -158,25 +158,25 @@
       <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Shopify / Liquid</text>
       <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
     </g>
-      <g opacity="0">
+<g opacity="0">
       <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
       <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
       <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Python</text>
       <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
     </g>
-      <g opacity="0">
+<g opacity="0">
       <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
       <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
       <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Node.js</text>
       <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
     </g>
-      <g opacity="0">
+<g opacity="0">
       <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
       <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
       <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">MongoDB</text>
       <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
     </g>
-      <g opacity="0">
+<g opacity="0">
       <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
       <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
       <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Nest.js</text>
