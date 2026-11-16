@@ -110,80 +110,133 @@
     </g>
 
     <g>
-      <g opacity="0">
-      <rect x="24.0" y="470.0" width="44.4" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="35.0" cy="479.0" r="2.1" fill="#22d3ee"/>
-      <text x="43.0" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Java</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.9s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="76.4" y="470.0" width="83.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="87.4" cy="479.0" r="2.1" fill="#22d3ee"/>
-      <text x="95.4" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Spring Boot</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.96s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="168.0" y="470.0" width="50.0" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="179.0" cy="479.0" r="2.1" fill="#22d3ee"/>
-      <text x="187.0" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">React</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.02s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="226.0" y="470.0" width="61.2" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="237.0" cy="479.0" r="2.1" fill="#22d3ee"/>
-      <text x="245.0" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Next.js</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.08s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="295.2" y="470.0" width="78.0" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="306.2" cy="479.0" r="2.1" fill="#22d3ee"/>
-      <text x="314.2" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">JavaScript</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.14s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="381.2" y="470.0" width="66.8" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="392.2" cy="479.0" r="2.1" fill="#22d3ee"/>
-      <text x="400.2" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Supabase</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.2s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="24.0" y="494.0" width="66.8" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="35.0" cy="503.0" r="2.1" fill="#22d3ee"/>
-      <text x="43.0" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Firebase</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.26s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
-      <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Shopify / Liquid</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
-      <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Python</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
-      <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Node.js</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
-      <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">MongoDB</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
-    </g>
-<g opacity="0">
-      <rect x="98.8" y="494.0" width="111.6" height="18" rx="9" fill="#111c2f" fill-opacity=".55" stroke="#22314a" stroke-width="1"/>
-      <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
-      <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#f8fafc">Nest.js</text>
-      <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
-    </g>
-    </g>
+  <!-- Row 1 -->
+  <g opacity="0">
+    <rect x="24.0" y="470.0" width="44.4" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="35.0" cy="479.0" r="2.1" fill="#22d3ee"/>
+    <text x="43.0" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Java</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.9s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="76.4" y="470.0" width="83.6" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="87.4" cy="479.0" r="2.1" fill="#22d3ee"/>
+    <text x="95.4" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Spring Boot</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.96s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="168.0" y="470.0" width="50.0" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="179.0" cy="479.0" r="2.1" fill="#22d3ee"/>
+    <text x="187.0" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">React</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.02s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="226.0" y="470.0" width="61.2" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="237.0" cy="479.0" r="2.1" fill="#22d3ee"/>
+    <text x="245.0" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Next.js</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.08s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="295.2" y="470.0" width="78.0" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="306.2" cy="479.0" r="2.1" fill="#22d3ee"/>
+    <text x="314.2" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">JavaScript</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.14s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="381.2" y="470.0" width="66.8" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="392.2" cy="479.0" r="2.1" fill="#22d3ee"/>
+    <text x="400.2" y="482.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Supabase</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.2s" fill="freeze"/>
+  </g>
 
+  <!-- Row 2 -->
+  <g opacity="0">
+    <rect x="24.0" y="494.0" width="66.8" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="35.0" cy="503.0" r="2.1" fill="#22d3ee"/>
+    <text x="43.0" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Firebase</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.26s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="98.8" y="494.0" width="106.0" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="109.8" cy="503.0" r="2.1" fill="#22d3ee"/>
+    <text x="117.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Shopify / Liquid</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.32s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="212.8" y="494.0" width="55.6" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="223.8" cy="503.0" r="2.1" fill="#22d3ee"/>
+    <text x="231.8" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Python</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.38s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="276.4" y="494.0" width="61.2" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="287.4" cy="503.0" r="2.1" fill="#22d3ee"/>
+    <text x="295.4" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Node.js</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.44s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="345.6" y="494.0" width="61.2" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="356.6" cy="503.0" r="2.1" fill="#22d3ee"/>
+    <text x="364.6" y="506.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">MongoDB</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.5s" fill="freeze"/>
+  </g>
+  <!-- Row 3 -->
+  <g opacity="0">
+    <rect x="24.0" y="518.0" width="61.2" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="35.0" cy="527.0" r="2.1" fill="#22d3ee"/>
+    <text x="43.0" y="530.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Nest.js</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.56s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="93.2" y="518.0" width="61.2" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="104.2" cy="527.0" r="2.1" fill="#22d3ee"/>
+    <text x="112.2" y="530.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">GraphQL</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.62s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="162.4" y="518.0" width="78.0" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="173.4" cy="527.0" r="2.1" fill="#22d3ee"/>
+    <text x="181.4" y="530.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">PostgreSQL</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.68s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="248.4" y="518.0" width="55.6" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="259.4" cy="527.0" r="2.1" fill="#22d3ee"/>
+    <text x="267.4" y="530.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Prisma</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.74s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="312.0" y="518.0" width="66.8" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="323.0" cy="527.0" r="2.1" fill="#22d3ee"/>
+    <text x="331.0" y="530.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">REST API</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.8s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="386.8" y="518.0" width="38.8" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="397.8" cy="527.0" r="2.1" fill="#22d3ee"/>
+    <text x="405.8" y="530.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">JWT</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.86s" fill="freeze"/>
+  </g>
+
+  <!-- Row 4 -->
+  <g opacity="0">
+    <rect x="24.0" y="542.0" width="38.8" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="35.0" cy="551.0" r="2.1" fill="#22d3ee"/>
+    <text x="43.0" y="554.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">SQL</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.92s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="70.8" y="542.0" width="66.8" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="81.8" cy="551.0" r="2.1" fill="#22d3ee"/>
+    <text x="89.8" y="554.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Power BI</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="2.98s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="145.6" y="542.0" width="50.0" height="18" rx="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+    <circle cx="156.6" cy="551.0" r="2.1" fill="#22d3ee"/>
+    <text x="164.6" y="554.5" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="8.6" fill="#000">Excel</text>
+    <animate attributeName="opacity" values="0;1" dur=".45s" begin="3.04s" fill="freeze"/>
+  </g>
+    </g>
     <text x="32" y="568" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#8fa1b8">~/profile $ build --ship<tspan fill="#10b981">_</tspan>
       <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
     </text>
