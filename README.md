@@ -7,13 +7,8 @@
 <br>
 
 ##  About
-
-Java Full Stack Developer based in Dharmapuri, Tamil Nadu, currently working as a Shopify Website Developer at **Huemind Digital Marketing**. Focused on building full-stack web applications and Shopify storefronts.
-
+Java Full Stack Developer skilled in React.js, Next.js, TypeScript, Node.js, REST APIs, JWT authentication, and MySQL/PostgreSQL. I have delivered freelance and company projects, including a construction marketplace, Shopify e-commerce stores, and business billing systems. I also work with Shopify Liquid, AdminAPI,GraphQL,paymentgateways,APItestingwithPostman,AWSEC2deployment,andGit/GitHub,andIfocusonclean,scalable,production-ready applications from development to deployment
 -  B.Sc. IT, Karpagam Academy of Higher Education
--  Java Full Stack certification, Besant Technologies
--  Currently building: **Opalline**, a jewelry billing ERP synced with Shopify
--  Currently sharpening: Shopify theme architecture and Storefront/Admin API integrations
 -  Portfolio: [chandruuuu.vercel.app](https://chandruuuu.vercel.app)
 
 ---
