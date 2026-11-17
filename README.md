@@ -8,6 +8,7 @@
 
 ##  About
 Java Full Stack Developer skilled in React.js, Next.js, TypeScript, Node.js, REST APIs, JWT authentication, and MySQL/PostgreSQL. I have delivered freelance and company projects, including a construction marketplace, Shopify e-commerce stores, and business billing systems. I also work with Shopify Liquid, AdminAPI,GraphQL,paymentgateways,APItestingwithPostman,AWSEC2deployment,andGit/GitHub,andIfocusonclean,scalable,production-ready applications from development to deployment
+
 -  B.Sc. IT, Karpagam Academy of Higher Education
 -  Portfolio: [chandruuuu.vercel.app](https://chandruuuu.vercel.app)
 
